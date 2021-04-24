@@ -1,0 +1,2 @@
+model_checkpoint_path: "SPY_CNN_reg"
+all_model_checkpoint_paths: "SPY_CNN_reg"
